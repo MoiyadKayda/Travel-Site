@@ -10,11 +10,7 @@
       "buttons": [
         {
           "text": "Discover",
-          "target": "#gallery"
-        },
-        {
-          "text": "About",
-          "target": "#Things-to-do"
+          "target": "#discover"
         },
         {
           "text": "Plans",
@@ -51,6 +47,14 @@
       "copyrightText": " "
     },
     {
+      "id": "discover",
+      "type": "feature-media-half-1",
+      "titleText": "Find inspiration for your Japan vacation",
+      "rightMediaUrl": null,
+      "subtitleText": "Arrive in Japan with a game plan. Discover the many events and festivals, temples and castles, theme parks and hot springs, beaches and outdoor activities that Japan has to offer. Whether you're passionate about sports, an art lover, a nature enthusiast, a history buff, a foodie, or just looking to relax on a beach, the possibilities for your Japan journey are endless.",
+      "leftMediaUrl": "/assets/travel-img-4"
+    },
+    {
       "type": "image-slides-1",
       "id": "gallery",
       "slides": [
@@ -75,14 +79,6 @@
       ],
       "titleText": "Gallery",
       "subtitleText": "Incredible Japan"
-    },
-    {
-      "id": "Things-to-do",
-      "type": "feature-media-half-1",
-      "titleText": "Find inspiration for your Japan vacation",
-      "rightMediaUrl": null,
-      "subtitleText": "Arrive in Japan with a game plan. Discover the many events and festivals, temples and castles, theme parks and hot springs, beaches and outdoor activities that Japan has to offer. Whether you're passionate about sports, an art lover, a nature enthusiast, a history buff, a foodie, or just looking to relax on a beach, the possibilities for your Japan journey are endless.",
-      "leftMediaUrl": "/assets/travel-img-4"
     },
     {
       "type": "pricing-tiers-1",
