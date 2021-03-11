@@ -100,6 +100,13 @@
       "id": "plan-pricing",
       "titleText": "Travel Packages",
       "boxVariant": "bordered",
+      "background": {
+        "layers": [
+          {
+            "color": "#ffffff"
+          }
+        ]
+      },
       "categories": [
         {
           "cost": "$99.9",
