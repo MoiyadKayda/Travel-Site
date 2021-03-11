@@ -68,7 +68,7 @@
       "background": {
         "layers": [
           {
-            "color": "#ffffff"
+            "color": "rgba(254,184,200, 0.2)"
           }
         ]
       },
@@ -118,7 +118,7 @@
       "background": {
         "layers": [
           {
-            "color": "#ffffff"
+            "color": "rgba(254,184,200, 0.2)"
           }
         ]
       },
