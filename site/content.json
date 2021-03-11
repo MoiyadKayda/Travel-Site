@@ -90,6 +90,13 @@
     {
       "id": "Preperation",
       "type": "feature-media-half-1",
+      "background": {
+        "layers": [
+          {
+            "imageUrl": "/assets/20704253.jpg"
+          }
+        ]
+      },
       "titleText": "Smooth your way with a little forward planning",
       "leftMediaUrl": null,
       "subtitleText": "It is easy to feel a little overwhelmed and disoriented when you visit Japan for the first time, so find out the basics before you fly and get acquainted with the country through our helping you plan guide.\nLearn a little more about Japan's customs, culture and Wi-Fi connectivity, as well as its seasonal weather, geography and luggage delivery options. Many of the questions first-time travelers might have are answered here, along with insider tips and practical advice to help you navigate the country with confidence.",
