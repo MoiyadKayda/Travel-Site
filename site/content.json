@@ -57,6 +57,13 @@
     {
       "type": "image-slides-1",
       "id": "gallery",
+      "background": {
+        "layers": [
+          {
+            "color": "#ffffff"
+          }
+        ]
+      },
       "slides": [
         {
           "mediaUrl": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80"
@@ -79,6 +86,14 @@
       ],
       "titleText": "Gallery",
       "subtitleText": "Incredible Japan"
+    },
+    {
+      "id": "Preperation",
+      "type": "feature-media-half-1",
+      "titleText": "Smooth your way with a little forward planning",
+      "leftMediaUrl": null,
+      "subtitleText": "It is easy to feel a little overwhelmed and disoriented when you visit Japan for the first time, so find out the basics before you fly and get acquainted with the country through our helping you plan guide.\nLearn a little more about Japan's customs, culture and Wi-Fi connectivity, as well as its seasonal weather, geography and luggage delivery options. Many of the questions first-time travelers might have are answered here, along with insider tips and practical advice to help you navigate the country with confidence.",
+      "rightMediaUrl": "https://images.unsplash.com/photo-1490677343801-763ce536dfb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
     },
     {
       "type": "pricing-tiers-1",
