@@ -199,6 +199,13 @@
     {
       "type": "contact-1",
       "id": "contact",
+      "background": {
+        "layers": [
+          {
+            "color": "rgb(253, 184, 200,0.5)"
+          }
+        ]
+      },
       "titleText": "Contact us",
       "formAction": "POST",
       "formTarget": "https://api.kiba.dev/v1/send-email",
