@@ -50,6 +50,13 @@
     {
       "id": "discover",
       "type": "feature-media-half-1",
+      "background": {
+        "layers": [
+          {
+            "color": "rgb(253, 184, 200, 0.5)"
+          }
+        ]
+      },
       "titleText": "Find inspiration for your Japan vacation",
       "rightMediaUrl": null,
       "subtitleText": "Arrive in Japan with a game plan. Discover the many events and festivals, temples and castles, theme parks and hot springs, beaches and outdoor activities that Japan has to offer. Whether you're passionate about sports, an art lover, a nature enthusiast, a history buff, a foodie, or just looking to relax on a beach, the possibilities for your Japan journey are endless.",
