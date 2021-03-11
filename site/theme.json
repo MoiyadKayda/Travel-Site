@@ -1,6 +1,6 @@
 {
   "colors": {
     "brandPrimary": "#2a9d8f",
-    "brandSecondary": "#264653"
+    "brandSecondary": "rgba(254, 184, 200, 1)"
   }
 }
