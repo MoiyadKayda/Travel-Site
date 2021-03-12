@@ -30,7 +30,7 @@
       "shouldStickToTop": true
     },
     {
-      "type": "single-page-app-1",
+      "type": "hero-simple-1",
       "id": "landing-section",
       "background": {
         "layers": [
@@ -43,9 +43,9 @@
         ]
       },
       "isInverse": true,
+      "logoImageUrl": null,
       "titleText": "Travel to Japan",
-      "subtitleText": "Discover the full range of amazing things to feel across Japan",
-      "copyrightText": " "
+      "subtitleText": "Discover the full range of amazing things to feel across Japan"
     },
     {
       "id": "discover",
