@@ -8,23 +8,26 @@
       "normal": {
         "default": {
           "text": {
+            "color": "$colors.brandSecondary"
+          },
+          "background": {
+            "background-color": "$colors.brandPrimaryDark05"
+          }
+        },
+        "hover": {
+          "text": {
             "color": "$colors.brandPrimary"
           },
           "background": {
             "background-color": "$colors.brandSecondary"
           }
         },
-        "hover": {
-          "text": {
-            "color": "$colors.brandSecondary"
-          },
-          "background": {
-            "background-color": "$colors.brandPrimaryClear"
-          }
-        },
         "press": {
           "background": {
-            "background-color": "$colors.brandPrimary"
+            "background-color": "$colors.brandPrimaryDark10"
+          },
+          "text": {
+            "color": "$colors.brandSecondary"
           }
         },
         "focus": {
