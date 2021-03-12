@@ -1,6 +1,38 @@
 {
   "colors": {
-    "brandPrimary": "#2a9d8f",
-    "brandSecondary": "rgba(254, 184, 200, 1)"
+    "brandPrimary": "#feb8c8",
+    "brandSecondary": "white"
+  },
+  "buttons": {
+    "primary": {
+      "normal": {
+        "default": {
+          "text": {
+            "color": "$colors.brandPrimary"
+          },
+          "background": {
+            "background-color": "$colors.brandSecondary"
+          }
+        },
+        "hover": {
+          "text": {
+            "color": "$colors.brandSecondary"
+          },
+          "background": {
+            "background-color": "$colors.brandPrimaryClear"
+          }
+        },
+        "press": {
+          "background": {
+            "background-color": "$colors.brandPrimary"
+          }
+        },
+        "focus": {
+          "background": {
+            "outline-color": "$colors.brandPrimaryClear"
+          }
+        }
+      }
+    }
   }
 }
